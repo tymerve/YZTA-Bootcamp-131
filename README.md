@@ -20,3 +20,28 @@ Bu özellik, kullanıcının sosyal medya alışkanlıklarını ruh haliyle eşl
 -	Ruhsal sağlığı destekleyen bir “takip aracı” gibi çalışır.
 
 Amaç, bireylerin dijital refahlarını iyileştirmek ve erken uyarı sistemi mantığıyla ruhsal yıpranma riskini azaltmaktır.
+
+## Ürün Özellikleri
+Kullanıcı, her gün sistemde bir form doldurur. Bu formda şunlar var:
+
+1.	O gün kaç saat sosyal medya kullandın?
+(örnek: “Instagram – 2 saat, TikTok – 1 saat, toplam: 3 saat”)
+2.	O gün ruh halin nasıldı?
+Bu 1 ile 10 arasında bir puanla ifade edilir:
+- 1 = çok kötü hissediyorum
+-	10 = çok iyi hissediyorum
+  
+### Sistem bu bilgilerle verileri bir tabloda toplar.
+### Veriyi analiz eder:
+-  Zaman içinde ekran süresi arttıkça ruh hali kötüleşiyor mu?
+-  Örneğin TikTok kullanılan günlerde ruh hali düşüyor fakat Spotify dinlediğinde artıyor.
+-  Bu ilişkiyi istatistiksel olarak ölçer 
+### Veriyi Çizer:
+
+Bir çizgi grafikle hem ruh hali hem sosyal medya süresi aynı grafikte gösterilir.
+-  Böylece kullanıcı şöyle diyebilir:
+“Son 5 gündür sosyal medya sürem artıyor ve ruh halim düşüyor, bu bağlantı önemli.”
+### Sistem Öneride Bulunur:
+-	Eğer 3 gün üst üste sosyal medya süresi 5 saati geçti ve ruh hali ≤ 5 ise şöyle uyarı verir:
+- “Sosyal medya süren bu hafta arttı ve ruh halin düştü. Dijital detoks yapmayı denemelisin. 1 saatlik mola öneriyoruz.”
+
