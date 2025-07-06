@@ -38,16 +38,16 @@ Sistem bu bilgilerle verileri bir tabloda toplar.
 -  Bu ilişkiyi istatistiksel olarak ölçer 
 ### Veriyi Çizer:
 
-Bir çizgi grafikle hem ruh hali hem sosyal medya süresi aynı grafikte gösterilir.
+Ruh hali ve sosyal medya süresi geçmişe dönük çizgi grafiğiyle sunulur.
 -  Böylece kullanıcı şöyle diyebilir:
 “Son 5 gündür sosyal medya sürem artıyor ve ruh halim düşüyor, bu bağlantı önemli.”
-### Sistem Öneride Bulunur:
+### Sistem Öneride ve Uyarıda Bulunur:
 -	Eğer 3 gün üst üste sosyal medya süresi 5 saati geçti ve ruh hali ≤ 5 ise şöyle uyarı verir:
 - “Sosyal medya süren bu hafta arttı ve ruh halin düştü. Dijital detoks yapmayı denemelisin. 1 saatlik mola öneriyoruz.”
 
 ## Hedef Kitle
 -	Öğrenciler
-•-	Genç Teknoloji Çalışanları
+-	Genç Teknoloji Çalışanları
 -	Ruhsal Sağlık Farkındalığına Sahip Kişiler
-•	Danışmanlar ve Psikologlar
+-	Danışmanlar ve Psikologlar
 
