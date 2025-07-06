@@ -31,7 +31,7 @@ Bu 1 ile 10 arasında bir puanla ifade edilir:
 - 1 = çok kötü hissediyorum
 -	10 = çok iyi hissediyorum
   
-### Sistem bu bilgilerle verileri bir tabloda toplar.
+Sistem bu bilgilerle verileri bir tabloda toplar.
 ### Veriyi analiz eder:
 -  Zaman içinde ekran süresi arttıkça ruh hali kötüleşiyor mu?
 -  Örneğin TikTok kullanılan günlerde ruh hali düşüyor fakat Spotify dinlediğinde artıyor.
