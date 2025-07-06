@@ -2,6 +2,14 @@
 
 Sosyal Medya Kullanımı ile Ruhsal Sağlık İzleyicisi
 
+## Takım Üyeleri
+
+Merve Tüysüz  
+Hatice Akbay  
+Elif Gedik 
+Süleyman Efe Polat 
+
+
 ## Ürün Açıklaması
 
 "Sosyal Medya Kullanımı ile Ruhsal Sağlık İzleyicisi", bireylerin sosyal medya kullanım alışkanlıklarını analiz ederek, bu alışkanlıkların ruhsal sağlık üzerindeki etkilerini anlamaya yardımcı olan yapay zekâ destekli bir izleme ve öneri sistemidir.
