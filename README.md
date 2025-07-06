@@ -4,10 +4,10 @@ Sosyal Medya Kullanımı ile Ruhsal Sağlık İzleyicisi
 
 ## Takım Üyeleri
 
-Merve Tüysüz  
-Hatice Akbay  
-Elif Gedik 
-Süleyman Efe Polat 
+-Merve Tüysüz  
+-Hatice Akbay-  
+-Elif Gedik 
+-Süleyman Efe Polat 
 
 
 ## Ürün Açıklaması
