@@ -45,3 +45,9 @@ Bir çizgi grafikle hem ruh hali hem sosyal medya süresi aynı grafikte göster
 -	Eğer 3 gün üst üste sosyal medya süresi 5 saati geçti ve ruh hali ≤ 5 ise şöyle uyarı verir:
 - “Sosyal medya süren bu hafta arttı ve ruh halin düştü. Dijital detoks yapmayı denemelisin. 1 saatlik mola öneriyoruz.”
 
+## Hedef Kitle
+-	Öğrenciler
+•-	Genç Teknoloji Çalışanları
+-	Ruhsal Sağlık Farkındalığına Sahip Kişiler
+•	Danışmanlar ve Psikologlar
+
