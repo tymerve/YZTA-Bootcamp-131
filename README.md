@@ -69,6 +69,9 @@ Ruh hali ve sosyal medya süresi geçmişe dönük çizgi grafiğiyle sunulur.
 - Günlük iletişim WhatsApp grupları üzerinden sağlanmıştır.
 - Toplantılar Google Meet üzerinden yapılmıştır.
 
+## Product Backlog 
+<img width="860" alt="Ekran Resmi 2025-07-08 16 50 57" src="https://github.com/user-attachments/assets/ae206c45-71d0-4d1d-bc3d-af333ac11f1b" />
+
 ## Sprint Review
 - Projenin ana hatları, ürün açıklaması ve kullanılacak veri seti netleştirilmiştir.
 
