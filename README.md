@@ -68,6 +68,10 @@ Ruh hali ve sosyal medya süresi geçmişe dönük çizgi grafiğiyle sunulur.
 ## Daily Scrum Görüşmeleri
 - Günlük iletişim WhatsApp grupları üzerinden sağlanmıştır.
 - Toplantılar Google Meet üzerinden yapılmıştır.
+<img width="742" alt="Ekran Resmi 2025-07-08 17 06 00" src="https://github.com/user-attachments/assets/6cb4c55a-be4a-48ca-a069-6e37a88424ce" />
+
+<img width="1093" alt="Ekran Resmi 2025-07-08 17 03 47" src="https://github.com/user-attachments/assets/5d9bdaef-de86-4033-a1f3-2bb42fc7f2c3" />
+
 
 ## Product Backlog 
 <img width="860" alt="Ekran Resmi 2025-07-08 16 50 57" src="https://github.com/user-attachments/assets/ae206c45-71d0-4d1d-bc3d-af333ac11f1b" />
