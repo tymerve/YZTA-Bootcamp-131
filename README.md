@@ -60,3 +60,13 @@ Ruh hali ve sosyal medya süresi geçmişe dönük çizgi grafiğiyle sunulur.
 -	Ruhsal Sağlık Farkındalığına Sahip Kişiler
 -	Danışmanlar ve Psikologlar
 
+# Sprint 1 Raporu – Sosyal Medya & Ruh Sağlığı İzleyici
+- Sprint içi puan değerlendirmesi 8 puan olarak belirlenmiştir.
+- Proje boyunca tamamlanması gereken toplam backlog puanı 36 puandır.
+- Bu sprintte hedeflenen 10 puanlık görevler başarıyla tamamlanmıştır.
+
+# Daily Scrum Görüşmeleri
+- Günlük iletişim WhatsApp grupları üzerinden sağlanmıştır.
+- Toplantılar Google Meet üzerinden yapılmıştır.
+
+
