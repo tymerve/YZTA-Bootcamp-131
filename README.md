@@ -69,4 +69,30 @@ Ruh hali ve sosyal medya süresi geçmişe dönük çizgi grafiğiyle sunulur.
 - Günlük iletişim WhatsApp grupları üzerinden sağlanmıştır.
 - Toplantılar Google Meet üzerinden yapılmıştır.
 
+## Sprint Review
+- Projenin ana hatları, ürün açıklaması ve kullanılacak veri seti netleştirilmiştir.
+
+- Günlük sosyal medya kullanımı ve ruh hali takibi için veri giriş formatı belirlenmiştir.
+
+- Toplantı kanalı (Google Meet + WhatsApp) kurulmuş ve ekip iletişimi organize edilmiştir.
+
+- GitHub reposu oluşturulmuş, temel proje dosyaları yüklenmiştir.
+
+- Ekip üyelerinin görev dağılımı ve sorumlulukları tanımlanmıştır.
+
+## Sprint Review Katılımcıları:
+- Merve, Efe (Yapay Zeka Bölümü)
+- Elif, Hatice (Veri Bilimi Bölümü)
+
+## Sprint Retrospective
+- Proje kapsamı ve ekip rollerinde netlik sağlanmıştır.
+
+- Gelecek sprintlerde problem yaşanmaması adına iletişim kanallarının etkin kullanımı için WhatsApp ve Google Meet üzerinde düzenli toplantılar planlanmıştır.
+
+- Veri seti analizi ve proje altyapısı kurulumunda işbirliği artırılmıştır.
+
+- Sprint planlamasında görev dağılımı daha açık yapılmıştır.
+
+- Tasarım ve geliştirme süreçlerinde entegrasyon için yol haritası oluşturulmuştur.
+
 
