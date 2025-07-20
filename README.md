@@ -1,4 +1,4 @@
-# Ürün Adı:
+# Ürün Adı: BOTMYMOOD
 
 Sosyal Medya Kullanımı ile Ruhsal Sağlık İzleyicisi
 
@@ -104,5 +104,13 @@ Ruh hali ve sosyal medya süresi geçmişe dönük çizgi grafiğiyle sunulur.
 - Sprint planlamasında görev dağılımı daha açık yapılmıştır.
 
 - Tasarım ve geliştirme süreçlerinde entegrasyon için yol haritası oluşturulmuştur.
+
+
+# Sprint 2 Raporu – BOTMYMOOD
+
+- Sprint içinde tamamlanması tahmin edilen puan: 14 Puan
+- İletişim WhatsApp grubu üzerinden sağlanmıştır.
+
+
 
 
