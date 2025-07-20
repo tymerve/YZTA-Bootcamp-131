@@ -109,7 +109,7 @@ Ruh hali ve sosyal medya süresi geçmişe dönük çizgi grafiğiyle sunulur.
 # Sprint 2 Raporu – BOTMYMOOD
 
 - Sprint içinde tamamlanması tahmin edilen puan: 14 Puan
-- 
+
 - İletişim WhatsApp grubu üzerinden sağlanmıştır.
 
 ## Product Backlog 
@@ -141,4 +141,6 @@ Ruh hali ve sosyal medya süresi geçmişe dönük çizgi grafiğiyle sunulur.
 - iletişim kanallarının daha sık kullanılmasına karar verilmiştir.
 
 - API entegrasyon sürecinin en hızlı şekilde başlatılmasına karar verilmiştir.
+
+- Sprint 2 için alınan puan 10 dur. Koddan alınan hataları çözmek bir sonraki sprinte ertelenmeiştir.
 
