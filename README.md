@@ -109,8 +109,36 @@ Ruh hali ve sosyal medya süresi geçmişe dönük çizgi grafiğiyle sunulur.
 # Sprint 2 Raporu – BOTMYMOOD
 
 - Sprint içinde tamamlanması tahmin edilen puan: 14 Puan
+- 
 - İletişim WhatsApp grubu üzerinden sağlanmıştır.
 
+## Product Backlog 
+
+<img width="1058" height="687" alt="1Ekran görüntüsü 2025-07-20 185957" src="https://github.com/user-attachments/assets/64a6e147-0002-4ce3-8118-4a40a630cd02" />
+
+## Ürün Durumu
+
+![üründurumu](https://github.com/user-attachments/assets/f221d369-16cc-4a5f-b355-3a6075a63f46)
+
+<img width="1053" height="881" alt="kod" src="https://github.com/user-attachments/assets/59962171-cfd1-4aeb-a474-5555c8492bd6" />
 
 
+## Sprint Review
+
+- Ürün arayüzü tamamlanmıştır.
+
+- Frontend ve banckend tasarımına devam edilmektedir.
+  
+## Sprint Review Katılımcıları:
+- Merve, Efe (Yapay Zeka Bölümü)
+- Elif, Hatice (Veri Bilimi Bölümü)
+
+  
+## Sprint Retrospective
+
+- Frontend ve banckend tasarımı kısmında alınan hataların bir sonraki sprintte hızlıca düzeltilmesine karar verilmiştir.
+
+- iletişim kanallarının daha sık kullanılmasına karar verilmiştir.
+
+- API entegrasyon sürecinin en hızlı şekilde başlatılmasına karar verilmiştir.
 
