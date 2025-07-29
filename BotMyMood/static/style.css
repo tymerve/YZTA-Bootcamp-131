@@ -1,0 +1,213 @@
+/* Genel stil */
+body {
+  background: #fff8dc;
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Ana kutu */
+.container {
+  width: 90%;
+  max-width: 850px;
+  margin: auto;
+  padding: 25px;
+  background: #fffef5;
+  border-radius: 16px;
+  box-shadow: 0 0 18px rgba(0, 0, 0, 0.05);
+  margin-top: 40px;
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  text-align: center;
+  color: #666;
+  margin-bottom: 30px;
+  font-size: 15px;
+}
+
+label {
+  font-weight: bold;
+  display: block;
+  margin-top: 12px;
+  color: #333;
+}
+
+/* Input alanları */
+input[type="text"],
+input[type="password"],
+input[type="number"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin-top: 4px;
+  font-size: 15px;
+  margin-bottom: 12px;
+}
+
+input:read-only {
+  background-color: #f5f5f5;
+  cursor: not-allowed; 
+}
+
+/* Form blokları */
+.form-block {
+  margin-bottom: 20px;
+}
+
+/* Bağla ve bağlantıyı kes butonları */
+.api-btn-group {
+  display: flex;
+  gap: 10px;
+  margin-top: 5px;
+}
+
+.api-btn-group button {
+  padding: 8px 16px;
+  font-weight: bold;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.2s ease; 
+}
+
+#check-btn {
+  background-color: gold;
+  color: #222;
+}
+
+#check-btn:hover:not(:disabled) {
+  background-color: darkgoldenrod;
+  color: white;
+}
+
+#check-btn.connected {
+  background-color: green;
+  color: white;
+}
+
+#check-btn:disabled {
+  background-color: #cccccc;
+  cursor: not-allowed;
+}
+
+#disconnect-btn {
+  background-color: #c62828;
+  color: white;
+}
+
+#disconnect-btn:hover {
+  background-color: #a30000;
+}
+
+/* Gönderme butonu */
+.submit-btn {
+  width: 100%;
+  background-color: goldenrod;
+  color: white;
+  padding: 12px;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.submit-btn:hover {
+  background-color: #daa520;
+}
+
+/* Yükleniyor alanı ve spinner */
+#loading {
+  background-color: #fff3a1;
+  padding: 12px;
+  margin-top: 20px;
+  text-align: center;
+  font-weight: bold;
+  border: 1px dashed #999;
+  border-radius: 6px;
+  display: flex; /* İçeriği yatayda hizalamak için flex kullan */
+  align-items: center; /* Dikeyde ortala */
+  justify-content: center; /* Yatayda ortala */
+  gap: 10px; /* Spinner ve metin arasına boşluk */
+}
+
+/* Spinner animasyonu */
+.spinner {
+  border: 4px solid rgba(0, 0, 0, 0.1);
+  border-left-color: #333; /* Spinner rengi */
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  animation: spin 1s linear infinite; /* Animasyon */
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+#loading.hidden {
+  display: none;
+}
+
+/* Analiz sonucu kutusu */
+.result.modern-box {
+  background-color: #fdfdfd;
+  padding: 25px; /* Biraz daha fazla dolgu */
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1); /* Hafif gölge */
+  font-family: "Segoe UI", sans-serif;
+  font-size: 17px; /* Biraz daha büyük font */
+  line-height: 1.7; /* Daha rahat okunur satır aralığı */
+  letter-spacing: 0.02em; /* Harf aralığı */
+  margin-top: 30px;
+  color: #2e2e2e; /* Biraz daha koyu metin rengi */
+  border: 1px solid #eee; /* Hafif bir kenarlık */
+}
+
+.result.modern-box h3 {
+    color: #444;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 22px;
+}
+
+.result.modern-box pre {
+    margin: 0; /* pre etiketinin varsayılan marjinlerini kaldır */
+    font-family: inherit; /* pre etiketinin fontunu miras al */
+    white-space: pre-wrap; /* Metni sar - ÖNEMLİ! */
+    word-wrap: break-word; /* Uzun kelimeleri de sar - ÖNEMLİ! */
+    /* Ekran görüntüsündeki taşmayı önlemek için eklendi */
+    max-height: 400px; /* Belirli bir yükseklik sınırı */
+    overflow-y: auto; /* İçerik taşarsa kaydırma çubuğu */
+}
+
+textarea {
+  display: none; /* eski kutu devre dışı */
+}
+
+/* Hata kutusu stili */
+.error-box {
+    background-color: #ffebee; 
+    color: #d32f2f; 
+    border: 1px solid #ef9a9a; 
+    padding: 12px;
+    margin-top: 20px;
+    border-radius: 8px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}

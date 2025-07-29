@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>BotMyMood - Ruhsal Analiz</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>BotMyMood</h1>
+    <p class="subtitle">Sosyal medya alışkanlıklarınıza göre kişisel ruhsal analiz</p>
+
+    <form id="main-form" method="post" action="/analyze">
+      <div class="form-block api-block">
+        <label for="apikey">1. Gemini API Anahtarı:</label>
+        <input type="password" id="apikey" name="apikey"
+               placeholder="API anahtarınızı girin"
+               required value="{{apikey if apikey else ''}}" {{'readonly' if connected}}>
+        <div class="api-btn-group">
+          <button type="button" id="check-btn" class="{{'connected' if connected else ''}}">
+            {{'Bağlı' if connected else 'Bağla'}}
+          </button>
+          <button type="button" id="disconnect-btn">Bağlantıyı Kes</button>
+        </div>
+      </div>
+
+      <div class="form-block">
+        <label for="username">2. Adınız:</label>
+        <input type="text" id="username" name="username" placeholder="Adınızı girin" required value="{{username if username else ''}}">
+      </div>
+
+      <div class="form-block platforms">
+        {% for platform in platforms %}
+          <label for="{{platform}}">{{platform}}</label>
+          <input type="number" step="0.1" min="0" name="{{platform}}" placeholder="Günlük saat">
+        {% endfor %}
+      </div>
+
+      <div id="loading" class="hidden">
+        <div class="spinner"></div> 🧠 Yapay zeka düşünüyor...
+      </div>
+      
+      <div id="error-message" class="hidden error-box"></div> 
+
+      <button class="submit-btn" type="submit">Yapay Zekaya Sor</button>
+    </form>
+
+    {% if result %}
+    <div class="result modern-box">
+      <h3>{{username}}, işte kişisel analiziniz:</h3>
+      <pre>{{result}}</pre>
+    </div>
+    {% elif error_message %}
+    <div class="result modern-box error-box">
+      <h3>Hata:</h3>
+      <pre>{{error_message}}</pre>
+    </div>
+    {% endif %}
+  </div>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>
