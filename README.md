@@ -144,3 +144,44 @@ Ruh hali ve sosyal medya süresi geçmişe dönük çizgi grafiğiyle sunulur.
 
 - Sprint 2 için alınan puan 10 dur. Koddan alınan hataları çözmek bir sonraki sprinte ertelenmeiştir.
 
+# Sprint 3
+
+Bu sprint dönemi boyunca, dijital refahı merkeze alan yapay zekâ destekli izleme sistemi BotMyMood’un temel işlevselliği başarıyla hayata geçirildi.
+
+BotMyMood, bireylerin sosyal medya kullanım alışkanlıklarını analiz ederek ruh haliyle olan ilişkilerini daha iyi anlamalarına yardımcı olmayı amaçlayan bir platformdur. Geliştirilen sistemle birlikte kullanıcılar artık günlük sosyal medya kullanım sürelerini ve ruh hallerini sisteme girerek kendi dijital refahlarını takip edebilecek, davranışlarına yönelik öneriler alabilecekler.
+
+## Bu sprintte tamamlanan başlıca iş kalemleri:
+
+- Kullanıcıların günlük olarak sosyal medya platformlarını ve ekran sürelerini girebildiği veri giriş arayüzü geliştirildi.
+
+- Ruh hali puanlaması ile dijital davranışlar arasında ilişki kuran analiz altyapısı kuruldu.
+
+- Ruh hali düşüşlerine karşı yapay zekâ destekli dijital detoks önerileri eklendi.
+
+## Sprint Hedefi 
+Bu sprintte amacımız, BotMyMood’un MVP (Minimum Viable Product) versiyonunu tamamlayarak, temel kullanıcı etkileşimini sağlayan fonksiyonları test edilebilir duruma getirmekti. Bu hedefe ulaşıldı.
+
+## Hedef Kullanıcılarımız:
+- Öğrenciler
+
+- Genç teknoloji çalışanları
+
+- Ruh sağlığı farkındalığı yüksek bireyler
+
+- Danışmanlar ve ruh sağlığı uzmanları
+
+- Bu hedef kitleye yönelik sade, etkili ve veri odaklı bir deneyim sunmayı başardık. Kullanıcıların davranışlarını anlamlandırabilmesi ve gerektiğinde aksiyon alabilmesi için güçlü bir temel oluşturduk.
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
