@@ -173,6 +173,16 @@ Bu sprintte amacımız, BotMyMood’un MVP (Minimum Viable Product) versiyonunu 
 - Bu hedef kitleye yönelik sade, etkili ve veri odaklı bir deneyim sunmayı başardık. Kullanıcıların davranışlarını anlamlandırabilmesi ve gerektiğinde aksiyon alabilmesi için güçlü bir temel oluşturduk.
 
 
+# PRODUCT BACKLOG
+
+<img width="1062" height="747" alt="TRELLO" src="https://github.com/user-attachments/assets/7510101e-bf69-4181-8e3e-a2a659b4c8f8" />
+
+# ÜRÜN GÖRSELLERİ 
+
+![3](https://github.com/user-attachments/assets/b3b1e4fc-ae7f-4985-8c18-c2d7f892d948)
+![2](https://github.com/user-attachments/assets/5eb2daed-d4d9-4954-b958-c880b053a6ba)
+![1](https://github.com/user-attachments/assets/f6a2cd40-2128-4f2c-99b6-bd3e8165fa61)
+
 
 
 
